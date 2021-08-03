@@ -1,0 +1,41 @@
+*{ 
+	/*border: 2px solid black;*/
+	box-sizing: border-box;
+}
+
+/*body{
+	max-width: 1100px;
+	margin: auto;
+}*/
+
+.box_container{
+	width: 30vw;
+	margin: 0 auto;
+	height: 30vw;
+
+}
+
+.box{
+	width:  45%;
+	height: 45%;
+	float: left;
+	margin: 2.5% ;
+	border-radius: 10%;
+
+}
+
+#top_left_box{
+	background-color: rgb(198,2,5);
+}
+
+#top_right_box{
+	background-color: rgb(10,1,171);
+}
+
+#bottom_left_box{
+	background-color: rgb(1,150,61);
+}
+
+#bottom_right_box{
+	background-color: rgb(177, 129, 1);
+}
